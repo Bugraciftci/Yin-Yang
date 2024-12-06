@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-This privacy policy applies to the Yin Yang Habit app (hereby referred to as "Application") for mobile devices that was created by Buğra (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
+This privacy policy applies to the This app (hereby referred to as "Application") for mobile devices that was created by Buğra (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
 
 **Information Collection and Use**
 
@@ -71,7 +71,7 @@ If you have any questions regarding privacy while using the Application, or have
 
 **Terms & Conditions**  
 
-These terms and conditions applies to the Yin Yang Habit app (hereby referred to as "Application") for mobile devices that was created by Buğra (hereby referred to as "Service Provider") as a Freemium service.
+These terms and conditions applies to the in this app (hereby referred to as "Application") for mobile devices that was created by Buğra (hereby referred to as "Service Provider") as a Freemium service.
 
 Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application. Unauthorized copying, modification of the Application, any part of the Application, or our trademarks is strictly prohibited. Any attempts to extract the source code of the Application, translate the Application into other languages, or create derivative versions are not permitted. All trademarks, copyrights, database rights, and other intellectual property rights related to the Application remain the property of the Service Provider.
 
